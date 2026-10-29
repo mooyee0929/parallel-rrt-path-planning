@@ -29,7 +29,7 @@ std::map<int, std::string> step = {
     {5, "check arrive goal"},
 };
 
-//copied from assignment 3
+// reused from an earlier implementation
 static int _argc;
 static const char **_argv;
 
